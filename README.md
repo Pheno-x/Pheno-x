@@ -1,4 +1,4 @@
-## Hi there 👋 ,I’m PhenoX aka Desai Prathamesh 
+## Hi there 👋 ,I’m Pratham aka Desai Prathamesh 
 
 ## 🎯 About Me
 I am an aspiring **VLSI Engineer** focused on **Digital IC Design, RTL development, and SoC verification**.  
